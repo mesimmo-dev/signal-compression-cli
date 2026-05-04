@@ -1,0 +1,8 @@
+[package]
+name = "signal-compression-cli"
+version = "0.1.0"
+edition = "2021"
+authors = ["MESIMMO-DEV <mesimmo-dev@users.noreply.github.com>"]
+description = "Minimal CLI for structural signal compression"
+
+[dependencies]
